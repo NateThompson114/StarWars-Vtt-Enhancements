@@ -29,16 +29,7 @@
         "verified": "10"
     },
     "relationships": {
-        "systems": [
-            {
-                "id": "starwarsffg",
-                "manifest": "https://raw.githubusercontent.com/StarWarsFoundryVTT/StarWarsFFG/master/system.json",
-                "compatability": {
-                    "minimum": "1.80-alpha6",
-                    "verified": "1.80-alpha8"
-                }
-            }
-        ],
+        "systems": [],
         "requires": [
             {
                 "id": "fxmaster",
